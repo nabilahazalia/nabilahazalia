@@ -50,7 +50,7 @@ hobbies: [ "🎧 music", "📚 learning new tech", "🌸 daydreaming", "✨ spar
 
 ### 📊 ｡･ﾟﾟ･ 𝓟𝓮𝓻𝓯𝓸𝓻𝓶𝓪𝓷𝓬𝓮 𝓢𝓽𝓪𝓽𝓼 ･ﾟﾟ･｡ 📊
 
-<img src="./assets/performance-stats.svg" alt="Public GitHub profile snapshot: 1 public repository, 0 public stars, 0 followers, member since August 2026" width="100%" />
+<img src="./assets/performance-stats.svg" alt="Automatically refreshed public GitHub performance stats" width="100%" />
 
 </div>
 
