@@ -1,42 +1,50 @@
 <div align="center">
 
-<img src="./assets/stage-banner.svg" alt="Nabilah Ratna Ayu Azalia — learning in public, one small step at a time" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/idol-stage-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/idol-stage-light.svg">
+  <img src="./assets/idol-stage-light.svg" alt="Nabilah Ratna Ayu Azalia on a pastel, idol-inspired learning stage" width="100%">
+</picture>
 
-<sub>Idol-inspired profile · Not JKT48 ex member</sub>
+<sub>♡ Idol-inspired learning profile · Not JKT48 ex member ♡</sub>
 
 </div>
 
-## About me
+## 🎀 Profile
 
-Hi, I'm Nabilah. I'm learning how to build for the web and using this profile to share the journey as it grows.
+Hi, I'm Nabilah. I'm learning how to build for the web and sharing the journey as it grows—one rehearsal, experiment, and small win at a time.
 
 Right now, I'm practicing the basics, getting more comfortable with Git and GitHub, and exploring small automations for this profile.
 
-## Current setlist
+## 🎤 Current setlist
 
 - Learn HTML and CSS fundamentals
 - Practice JavaScript and Python through small experiments
 - Get comfortable with Git, GitHub, and simple GitHub Actions workflows
 - Add real projects here as they are ready to share
 
-## Learning and exploring
+## ✨ Backstage practice
 
 `HTML` · `CSS` · `JavaScript` · `Python` · `Git` · `GitHub Actions`
 
-These are technologies I'm learning or exploring—not a proficiency rating.
+<sub>These are technologies I'm learning or exploring—not a proficiency rating.</sub>
 
-## Current activity
+## 🌟 On stage now
 
-<img src="./assets/current-activity.svg" alt="Current public GitHub activity, refreshed automatically" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/current-activity-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/current-activity-light.svg">
+  <img src="./assets/current-activity-light.svg" alt="Nabilah's latest public GitHub repository activity, refreshed automatically" width="100%">
+</picture>
 
-This card uses public GitHub data and refreshes weekly. Empty popularity metrics are intentionally left out.
+<sub>This card uses public GitHub data and refreshes weekly. Empty popularity metrics are intentionally left out.</sub>
 
-## Follow along
+## 💌 Encore
 
 [Follow me on GitHub](https://github.com/nabilahazalia) to see what I learn and build next.
 
 <div align="center">
 
-<sub>✦ Every new skill starts with a first rehearsal. ✦</sub>
+<sub>♡ The stage is small today, but every new skill begins with a first rehearsal. ♡</sub>
 
 </div>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-labelledby="title desc">
+  <title id="title">Nabilah's current public GitHub activity</title><desc id="desc">Latest public repository: nabilahazalia. ✨ My special profile repo ✨. Primary language: Python. Updated 23 Aug 2026.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff9fc"/><stop offset="1" stop-color="#ffe1ec"/></linearGradient></defs>
+  <rect x="1" y="1" width="898" height="208" rx="24" fill="url(#bg)" stroke="#e88bad" stroke-width="2"/>
+  <path d="M85 1 185 178H30L85 1Zm730 0 55 177H715L815 1Z" fill="#ffffff" opacity=".16"/>
+  <g fill="#c33f75" aria-hidden="true"><path d="m42 35 4 9 9 4-9 4-4 9-4-9-9-4 9-4 4-9Z"/><path d="m858 36 3 7 7 3-7 3-3 7-3-7-7-3 7-3 3-7Z"/></g>
+  <text x="44" y="48" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#c33f75">NOW PERFORMING · LATEST PUBLIC UPDATE</text>
+  <text x="44" y="83" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#752544">nabilahazalia</text>
+  <text x="44" y="116" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#58323f">✨ My special profile repo ✨</text>
+  <rect x="44" y="142" width="210" height="36" rx="18" fill="#ffffff" stroke="#e88bad"/>
+  <text x="149" y="165" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#752544">MIC CHECK · Python</text>
+  <text x="856" y="165" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#805466">LAST REHEARSAL · 23 Aug 2026</text>
+  <g stroke="#c33f75" stroke-width="4" stroke-linecap="round" opacity=".72" aria-hidden="true"><path d="m64 195 5-12"/><path d="m82 195-1-14"/><path d="m100 195-6-12"/><path d="m800 195-4-12"/><path d="m819 195 1-14"/><path d="m838 195 5-12"/></g>
+</svg>
