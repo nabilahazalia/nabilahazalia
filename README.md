@@ -1,77 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd1dc,50:ffb6c1,100:ff9eaa&height=200&section=header&text=Nabilah%20Ratna%20Ayu%20Azalia&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%9C%A8%20center%20of%20the%20stage%20%E2%9C%A8&descAlignY=55&descSize=18" width="100%"/>
+<img src="./assets/stage-banner.svg" alt="Nabilah Ratna Ayu Azalia — learning in public, one small step at a time" width="100%">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=24&pause=1000&color=FF6F91&center=true&vCenter=true&width=600&lines=%F0%9F%8C%B8+Hi+everyone%2C+I'm+Nabilah!+%F0%9F%8C%B8;%F0%9F%8E%80+Developer+by+day%2C+dreamer+always+%F0%9F%8E%80;%F0%9F%92%BB+Turning+caffeine+into+commits+%E2%98%95;%F0%9F%8E%A4+Code+with+passion%2C+shine+with+purpose+%E2%9C%A8" alt="Typing SVG" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=nabilahazalia&label=Stage%20Visitors%20%F0%9F%8E%AB&color=ff6f91&style=for-the-badge" alt="profile views"/>
-
-<sub>Idol-inspired developer profile · Not JKT48 ex member</sub>
+<sub>Idol-inspired profile · Not JKT48 ex member</sub>
 
 </div>
 
----
+## About me
+
+Hi, I'm Nabilah. I'm learning how to build for the web and using this profile to share the journey as it grows.
+
+Right now, I'm practicing the basics, getting more comfortable with Git and GitHub, and exploring small automations for this profile.
+
+## Current setlist
+
+- Learn HTML and CSS fundamentals
+- Practice JavaScript and Python through small experiments
+- Get comfortable with Git, GitHub, and simple GitHub Actions workflows
+- Add real projects here as they are ready to share
+
+## Learning and exploring
+
+`HTML` · `CSS` · `JavaScript` · `Python` · `Git` · `GitHub Actions`
+
+These are technologies I'm learning or exploring—not a proficiency rating.
+
+## Current activity
+
+<img src="./assets/current-activity.svg" alt="Current public GitHub activity, refreshed automatically" width="100%">
+
+This card uses public GitHub data and refreshes weekly. Empty popularity metrics are intentionally left out.
+
+## Follow along
+
+[Follow me on GitHub](https://github.com/nabilahazalia) to see what I learn and build next.
 
 <div align="center">
 
-### 🎀 ｡･ﾟﾟ･ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ･ﾟﾟ･｡ 🎀
+<sub>✦ Every new skill starts with a first rehearsal. ✦</sub>
 
 </div>
-
-```yaml
-stage_name: Nabilah Ratna Ayu Azalia
-fandom_name: Code Lovers 💕
-position: Full-Stack Dreamer 🌟
-catchphrase: "Code with passion, shine with purpose!"
-skills_training:
-  - 💻 Coding choreography (clean commits only!)
-  - 🎨 Designing pastel-perfect UIs
-  - ☕ Caffeine-to-code conversion (100% efficiency)
-hobbies: [ "🎧 music", "📚 learning new tech", "🌸 daydreaming", "✨ sparkling" ]
-```
-
-<div align="center">
-
-### 🎤 ｡･ﾟﾟ･ 𝓜𝔂 𝓢𝓽𝓪𝓰𝓮 𝓖𝓮𝓪𝓻 ･ﾟﾟ･｡ 🎤
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,git,github,vscode,figma,mysql&theme=light" />
-
-</div>
-
-<div align="center">
-
-### 🏆 ｡･ﾟﾟ･ 𝓣𝓻𝓸𝓹𝓱𝔂 𝓡𝓸𝓸𝓶 ･ﾟﾟ･｡ 🏆
-
-<img src="./assets/trophy-room.svg" alt="Pastel idol-style achievement badges" width="100%" />
-
-</div>
-
-<div align="center">
-
-### 📊 ｡･ﾟﾟ･ 𝓟𝓮𝓻𝓯𝓸𝓻𝓶𝓪𝓷𝓬𝓮 𝓢𝓽𝓪𝓽𝓼 ･ﾟﾟ･｡ 📊
-
-<img src="./assets/performance-stats.svg" alt="Automatically refreshed public GitHub performance stats" width="100%" />
-
-</div>
-
-<div align="center">
-
-### 💌 ｡･ﾟﾟ･ 𝓕𝓪𝓷 𝓛𝓮𝓽𝓽𝓮𝓻𝓼 ･ﾟﾟ･｡ 💌
-
-*Want to collab or just say hi? My inbox is always open for lovely people!* 🌷
-
-<a href="https://github.com/nabilahazalia"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-ff6f91?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</div>
-
-<div align="center">
-
-🌸｡･ﾟﾟ･｡･ﾟﾟ･｡ 🎀 ｡･ﾟﾟ･｡･ﾟﾟ･｡ 🌸
-
-*“Every commit is a step toward the spotlight.”* ✨
-
-🌸｡･ﾟﾟ･｡･ﾟﾟ･｡ 🎀 ｡･ﾟﾟ･｡･ﾟﾟ･｡ 🌸
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9eaa,50:ffb6c1,100:ffd1dc&height=120&section=footer" width="100%"/>

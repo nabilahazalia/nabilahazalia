@@ -1,4 +1,4 @@
-name: Update performance stats
+name: Update current activity
 
 on:
   schedule:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: performance-stats-${{ github.ref }}
+  group: current-activity-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -20,19 +20,19 @@ jobs:
       - name: Check out profile repository
         uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
 
-      - name: Regenerate performance card
+      - name: Regenerate current activity card
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/generate_performance_stats.py
+        run: python3 scripts/generate_current_activity.py
 
-      - name: Commit changed metrics
+      - name: Commit changed activity
         run: |
-          if git diff --quiet -- assets/performance-stats.svg; then
-            echo "Performance metrics are unchanged."
+          if git diff --quiet -- assets/current-activity.svg; then
+            echo "Current activity is unchanged."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/performance-stats.svg
-          git commit -m "chore: refresh performance stats"
+          git add assets/current-activity.svg
+          git commit -m "chore: refresh current activity"
           git push
