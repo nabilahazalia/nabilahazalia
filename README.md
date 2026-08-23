@@ -50,10 +50,7 @@ hobbies: [ "🎧 music", "📚 learning new tech", "🌸 daydreaming", "✨ spar
 
 ### 📊 ｡･ﾟﾟ･ 𝓟𝓮𝓻𝓯𝓸𝓻𝓶𝓪𝓷𝓬𝓮 𝓢𝓽𝓪𝓽𝓼 ･ﾟﾟ･｡ 📊
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nabilahazalia&theme=rose_pine" alt="Nabilah's GitHub stats" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nabilahazalia&theme=rose_pine" alt="Nabilah's top languages by repository" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilahazalia&ring=ff6f91&fire=ff9eaa&currStreakLabel=d16b86&sideLabels=ffb6c1&dates=ffb6c1&background=fff0f3&hide_border=true" />
+<img src="./assets/performance-stats.svg" alt="Public GitHub profile snapshot: 1 public repository, 0 public stars, 0 followers, member since August 2026" width="100%" />
 
 </div>
 
