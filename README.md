@@ -42,7 +42,7 @@ hobbies: [ "🎧 music", "📚 learning new tech", "🌸 daydreaming", "✨ spar
 
 ### 🏆 ｡･ﾟﾟ･ 𝓣𝓻𝓸𝓹𝓱𝔂 𝓡𝓸𝓸𝓶 ･ﾟﾟ･｡ 🏆
 
-<img src="https://github-profile-trophy.vercel.app/?username=nabilahazalia&theme=flat&no-frame=true&column=7&margin-w=10&title_color=ff6f91&text_color=ffb6c1&icon_color=ffd1dc&bg_color=fff0f3" />
+<img src="./assets/trophy-room.svg" alt="Pastel idol-style achievement badges" width="100%" />
 
 </div>
 
@@ -50,8 +50,8 @@ hobbies: [ "🎧 music", "📚 learning new tech", "🌸 daydreaming", "✨ spar
 
 ### 📊 ｡･ﾟﾟ･ 𝓟𝓮𝓻𝓯𝓸𝓻𝓶𝓪𝓷𝓬𝓮 𝓢𝓽𝓪𝓽𝓼 ･ﾟﾟ･｡ 📊
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nabilahazalia&show_icons=true&theme=rose_pine&title_color=ff6f91&icon_color=ff9eaa&text_color=d16b86&bg_color=fff0f3&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilahazalia&layout=compact&title_color=ff6f91&text_color=d16b86&bg_color=fff0f3&hide_border=true" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nabilahazalia&theme=rose_pine" alt="Nabilah's GitHub stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nabilahazalia&theme=rose_pine" alt="Nabilah's top languages by repository" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilahazalia&ring=ff6f91&fire=ff9eaa&currStreakLabel=d16b86&sideLabels=ffb6c1&dates=ffb6c1&background=fff0f3&hide_border=true" />
 
