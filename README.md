@@ -6,6 +6,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=nabilahazalia&label=Stage%20Visitors%20%F0%9F%8E%AB&color=ff6f91&style=for-the-badge" alt="profile views"/>
 
+<sub>Idol-inspired developer profile · Not JKT48 ex member</sub>
+
 </div>
 
 ---
